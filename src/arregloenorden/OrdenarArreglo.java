@@ -6,7 +6,7 @@ public class OrdenarArreglo {
 
         int[] arreglo = {11, 4, 15, 8, 0, 22, 3};
 
-        // Repite el proceso n-1 veces
+        // Repite el  proceso n-1 veces
         for (int i = 0; i < arreglo.length - 1; i++) {
             
             // Recorre el arreglo comparando posiciones consecutivas
